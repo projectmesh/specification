@@ -1,7 +1,6 @@
 Mixed Reality Scripting Interface
 =================================
 part of the Mesh Standard for Mobile Mixed Reality  -  https://github.com/projectmesh   
-Copyright &copy; 2015 Aedan Cullen  
 <br>
 <br>
 It's not ready yet.
