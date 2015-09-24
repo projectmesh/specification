@@ -1,5 +1,5 @@
-Automatic Location Discovery System
-===================================
+Automatic Content Discovery System
+==================================
 part of the Mesh Standard for Mobile Mixed Reality  -  https://github.com/projectmesh/specification  
 <br>
 <br>
